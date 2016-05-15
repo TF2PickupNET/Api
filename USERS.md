@@ -16,6 +16,7 @@ Multiple users:
 > /api/v1/users/123,456,789
  
 Both examples will return an array with the userdata
+
 Each object will have the following keys:
 
 - steamId64 (SteamID 64 of the user)
