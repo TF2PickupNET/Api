@@ -9,6 +9,17 @@ The Pathprefix is /api/v1/
 
 [Documentation](/PICKUPS.md)
 
+
 #### Users
 
 [Documentation](/USERS.md)
+
+
+#### Servers
+
+[Documentation](/SERVERS.md)
+
+
+## Questions & Bugs & Feature requests
+
+Either create an issue [here](/issues) or add [kampfkeks](http://steamcommunity.com/id/kampfkeks103/) on steam
