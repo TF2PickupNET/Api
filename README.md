@@ -22,4 +22,4 @@ The Pathprefix is /api/v1/
 
 ## Questions & Bugs & Feature requests
 
-Either create an issue [here](/issues) or add [kampfkeks](http://steamcommunity.com/id/kampfkeks103/) on steam
+Either create an issue [here](https://github.com/TF2PickupNET/Api/issues) or add [kampfkeks](http://steamcommunity.com/id/kampfkeks103/) on steam
